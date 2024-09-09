@@ -16,9 +16,8 @@ python manage.py runserver
 
 ### Contact Information
 
-1. Abdulla Abduqulov
-
-    **email**: abduqulovabdulla@gmail.com
+1. Saydullo Xabibullayev
+    **email**:saydulloxabubillaev@gmail.com
 
 2. Anvar Soliyev
 
